@@ -3,4 +3,5 @@ let hello = () => {
 
 
     console.log("GHELL");
+    console.log("test");
 }
